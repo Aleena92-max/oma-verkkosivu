@@ -1,12 +1,21 @@
 
 body {
-background-color: lightgray;
+background-color: white;
+  color: #222222;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
 }
 h1 {
-color: blue;
+color: #003366;
 text-align: center;
 }
 p {
 font-size: 20px;
-color: green;
+color: black;
+}
+
+button {
+    backround-color: #005fcc;
+    color: white;
+    padding: 10px;
 }
